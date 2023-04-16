@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 public class SecondActivity extends AppCompatActivity {
     private TextView tvr;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
