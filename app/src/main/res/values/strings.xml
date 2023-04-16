@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio#1.1</string>
+    <string name="btnsuma">Suma</string>
+    <string name="btnresta">Resta</string>
+    <string name="btnmult">Multiplicacion</string>
+    <string name="btndiv">Division</string>
+    <string name="btnvol">Volver</string>
+</resources>
